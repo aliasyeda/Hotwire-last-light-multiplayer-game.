@@ -1,6 +1,9 @@
 # HOTWIRE: LAST LIGHT
 
-A live co-op grid survival game for 2–8 players. Players join from separate browsers using a five-character room code. No account or installation is needed.
+## Play the game
+[Play HOTWIRE: LAST LIGHT](https://hotwire-last-light.onrender.com)
+
+Hotwire: Last Light is a fast co-op game for 2–8 players. Power pulses race toward the Hospital, Water Plant, and Shelter. Choose the right relay before each pulse arrives, coordinate with your crew, and stop the grid from overloading. It’s a tense test of focus, quick decisions, and teamwork. Building it taught me how to create synchronized multiplayer gameplay. Next, I want to test it with more crews and add new grid layouts and emergencies. A live co-op grid survival game for 2–8 players. Players join from separate browsers using a five-character room code. No account or installation is needed.
 
 ## Play locally
 
